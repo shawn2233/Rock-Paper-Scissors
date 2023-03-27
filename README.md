@@ -12,5 +12,5 @@ the computer will tell you if you win, lose or tie ! Have fun !
 How It's Made:
 Tech used: HTML, CSS, JavaScript, Framework of choice
 
-This is one of the first projects I ever created and I'm happy with it. One day I wwill like to make another and change the theme, maybe add pictures instead of the buttons! 
+This is one of the first projects I ever created and I'm happy with it. One day I would like to make another and change the theme, maybe add pictures instead of the buttons! 
 
