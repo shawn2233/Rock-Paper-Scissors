@@ -1,0 +1,41 @@
+*{
+    background:linear-gradient(to bottom, grey 65%, black 92%);
+    background-attachment: fixed;
+    /* background-color: lavender; */
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Tilt Neon';
+}
+
+table {
+    margin-left:45%;
+}
+
+
+.red{
+    color:darkred;
+}
+
+.blue{
+    color:darkblue;
+}
+.green{
+    color: darkgreen;
+}
+
+button{
+    background-color: black;
+    color: white;
+    border-radius: 50%;
+    padding:2%;
+    margin-right:2%;
+    border: 3px solid black;
+}
+
+p{
+    font-size: 30px;
+}
+
+#status{
+    color: white;
+}
